@@ -4,9 +4,9 @@ This is a demo to show how the Brex external API can be used to create a custom 
 
 ## Brex External API Example App
 
-![Demo Screen 1](https://github.com/squamuglia/brex-example-app/public/demo-screens/demo-1.png)
+![Demo Screen 1](https://github.com/squamuglia/brex-example-app/blob/main/public/demo-screens/demo-1.png)
 
-![Demo Screen 2](https://github.com/squamuglia/brex-example-app/public/demo-screens/demo-2.png)
+![Demo Screen 2](https://github.com/squamuglia/brex-example-app/blob/main/public/demo-screens/demo-2.png)
 
 ### Getting Started
 
